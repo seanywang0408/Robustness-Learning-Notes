@@ -1,8 +1,16 @@
-﻿# Robustness-Learning-Notes
+﻿# Robustness/3D-Learning-Notes
 
 ## 1908--
 * Vision
   * [HXY] AutoAugment: Learning Augmentation Strategies from Data ([CVPR'19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cubuk_AutoAugment_Learning_Augmentation_Strategies_From_Data_CVPR_2019_paper.pdf)) Briefly introduce the RL technique in archtecture search.
+  
+## 190830
+* Uncertainty
+  * [HXY] Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning ([arxiv](https://arxiv.org/abs/1803.04765))
+* Vision
+  * [HXY] Improving Generalization via Scalable Neighborhood Component Analysis ([ECCV'18](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhirong_Wu_Improving_Embedding_Generalization_ECCV_2018_paper.pdf)) ([code](https://github.com/zhirongw/snca.pytorch))
+* Privacy
+  * [HXY] Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data ([ICLR'17](https://arxiv.org/abs/1610.05755))([code](https://github.com/tensorflow/models/tree/master/differential_privacy/multiple_teachers)) More on differential privacy
   
 ## 190820
 * Uncertainty
